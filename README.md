@@ -1,6 +1,6 @@
 # WsSizePlayer  
 ------
-[下载Phar](http://pan.baidu.com/s/1dFcLdGd)
+[下载Phar](https://pan.baidu.com/s/1pLM1UfL)
 ```
 /wsize <Size>           --Set Player Size
 /wsizep <Player> <Size> --Set a Player Size
